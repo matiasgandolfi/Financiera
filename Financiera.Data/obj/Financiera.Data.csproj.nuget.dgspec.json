@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Financiera\\Financiera.Data\\Financiera.Data.csproj": {}
+    "C:\\Financiera-new\\Financiera.Data\\Financiera.Data.csproj": {}
   },
   "projects": {
-    "C:\\Financiera\\Financiera.Data\\Financiera.Data.csproj": {
+    "C:\\Financiera-new\\Financiera.Data\\Financiera.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Financiera\\Financiera.Data\\Financiera.Data.csproj",
+        "projectUniqueName": "C:\\Financiera-new\\Financiera.Data\\Financiera.Data.csproj",
         "projectName": "Financiera.Data",
-        "projectPath": "C:\\Financiera\\Financiera.Data\\Financiera.Data.csproj",
+        "projectPath": "C:\\Financiera-new\\Financiera.Data\\Financiera.Data.csproj",
         "packagesPath": "C:\\Users\\I-MAG\\.nuget\\packages\\",
-        "outputPath": "C:\\Financiera\\Financiera.Data\\obj\\",
+        "outputPath": "C:\\Financiera-new\\Financiera.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Financiera\\Financiera.Models\\Financiera.Models.csproj": {
-                "projectPath": "C:\\Financiera\\Financiera.Models\\Financiera.Models.csproj"
+              "C:\\Financiera-new\\Financiera.Models\\Financiera.Models.csproj": {
+                "projectPath": "C:\\Financiera-new\\Financiera.Models\\Financiera.Models.csproj"
               }
             }
           }
@@ -98,14 +98,14 @@
         }
       }
     },
-    "C:\\Financiera\\Financiera.Models\\Financiera.Models.csproj": {
+    "C:\\Financiera-new\\Financiera.Models\\Financiera.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Financiera\\Financiera.Models\\Financiera.Models.csproj",
+        "projectUniqueName": "C:\\Financiera-new\\Financiera.Models\\Financiera.Models.csproj",
         "projectName": "Financiera.Models",
-        "projectPath": "C:\\Financiera\\Financiera.Models\\Financiera.Models.csproj",
+        "projectPath": "C:\\Financiera-new\\Financiera.Models\\Financiera.Models.csproj",
         "packagesPath": "C:\\Users\\I-MAG\\.nuget\\packages\\",
-        "outputPath": "C:\\Financiera\\Financiera.Models\\obj\\",
+        "outputPath": "C:\\Financiera-new\\Financiera.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

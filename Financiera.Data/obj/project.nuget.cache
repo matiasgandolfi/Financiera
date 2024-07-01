@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bbXjQUNf0e3L7fxgMT90xxy1DFQIGvo4vIG0PJZUL8hP0+zWJGBPVZBLbR+PhEfGuXTaCc9+TXdW56g5cz7rUw==",
+  "dgSpecHash": "nnl8l5eli9wjvlME25TO62z+ZEAnECUvmAiLhHacu4hzBo4SIfFjGYkfAh9cw/QoqEctkOxNsa2oiNyZiKnN5Q==",
   "success": true,
-  "projectFilePath": "C:\\Financiera\\Financiera.Data\\Financiera.Data.csproj",
+  "projectFilePath": "C:\\Financiera-new\\Financiera.Data\\Financiera.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\I-MAG\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\I-MAG\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.0\\microsoft.aspnetcore.cryptography.internal.6.0.0.nupkg.sha512",

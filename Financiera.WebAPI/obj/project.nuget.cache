@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GTx3o26eqJeLSejyjfjXLcuHD3yZYUmonkhFGon2wFgoU37PM4sTHIRZf4vUhfJw//6/TTQQy0JK/CoYOJMhUA==",
+  "dgSpecHash": "2W1KRlzvbySQ3gTvg5BKldlJcgnrO6JnQJI1uI6vVrL8vBR+4sAoSN9DDWFtbXEHZcbKw6GfhJJi+YSrnFPT1Q==",
   "success": true,
-  "projectFilePath": "C:\\Financiera\\Financiera.WebAPI\\Financiera.WebAPI.csproj",
+  "projectFilePath": "C:\\Financiera-new\\Financiera.WebAPI\\Financiera.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\I-MAG\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\I-MAG\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.0\\microsoft.aspnetcore.authentication.jwtbearer.6.0.0.nupkg.sha512",

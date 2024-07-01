@@ -8,6 +8,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Mvc;
 using Financiera.WebAPI.Controllers.Errores;
 using Financiera.Data.Servicios;
+using Financiera.Data.Repositorio;
 
 namespace Financiera.WebAPI.Extensiones
 {
@@ -63,6 +64,7 @@ namespace Financiera.WebAPI.Extensiones
                     return new BadRequestObjectResult(errorResponse);
                 };
             });
+            services.AddScoped<IUnidadTrabajo, UnidadTrabajo>();
 
             return services;
         }

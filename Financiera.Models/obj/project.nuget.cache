@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PYyerOoTwoI+Xp2Ou2WToe2gzjBiV41+lT4/szYo7nsVzlmKgqd71bxjWs1Kuz6bTBVEDbfm3zgVZeOGYNVqLw==",
+  "dgSpecHash": "TWcUShalBw5I1oq3X9Ry1CtzBkvX25uccgwuXzxuF5O+bAeUret8i2cmsEhtyJ6tAigAxj761oCjevaRMy/LZQ==",
   "success": true,
-  "projectFilePath": "C:\\Financiera\\Financiera.Models\\Financiera.Models.csproj",
+  "projectFilePath": "C:\\Financiera-new\\Financiera.Models\\Financiera.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\I-MAG\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.0\\microsoft.aspnetcore.cryptography.internal.6.0.0.nupkg.sha512",
     "C:\\Users\\I-MAG\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.0\\microsoft.aspnetcore.cryptography.keyderivation.6.0.0.nupkg.sha512",
