@@ -1,0 +1,17 @@
+C:\Financiera\Financiera.Data\bin\Debug\net6.0\Financiera.Data.deps.json
+C:\Financiera\Financiera.Data\bin\Debug\net6.0\Financiera.Data.runtimeconfig.json
+C:\Financiera\Financiera.Data\bin\Debug\net6.0\Financiera.Data.dll
+C:\Financiera\Financiera.Data\bin\Debug\net6.0\Financiera.Data.pdb
+C:\Financiera\Financiera.Data\bin\Debug\net6.0\Financiera.Models.dll
+C:\Financiera\Financiera.Data\bin\Debug\net6.0\Financiera.Models.pdb
+C:\Financiera\Financiera.Data\obj\Debug\net6.0\Financiera.Data.csproj.AssemblyReference.cache
+C:\Financiera\Financiera.Data\obj\Debug\net6.0\Financiera.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Financiera\Financiera.Data\obj\Debug\net6.0\Financiera.Data.AssemblyInfoInputs.cache
+C:\Financiera\Financiera.Data\obj\Debug\net6.0\Financiera.Data.AssemblyInfo.cs
+C:\Financiera\Financiera.Data\obj\Debug\net6.0\Financiera.Data.csproj.CoreCompileInputs.cache
+C:\Financiera\Financiera.Data\obj\Debug\net6.0\Financiera.Data.csproj.CopyComplete
+C:\Financiera\Financiera.Data\obj\Debug\net6.0\Financiera.Data.dll
+C:\Financiera\Financiera.Data\obj\Debug\net6.0\refint\Financiera.Data.dll
+C:\Financiera\Financiera.Data\obj\Debug\net6.0\Financiera.Data.pdb
+C:\Financiera\Financiera.Data\obj\Debug\net6.0\Financiera.Data.genruntimeconfig.cache
+C:\Financiera\Financiera.Data\obj\Debug\net6.0\ref\Financiera.Data.dll

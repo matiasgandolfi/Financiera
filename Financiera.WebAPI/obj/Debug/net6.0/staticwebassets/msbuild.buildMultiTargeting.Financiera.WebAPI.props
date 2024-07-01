@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Financiera.WebAPI.props" />
+</Project>
