@@ -22,3 +22,4 @@ C:\Financiera-new\Financiera.Models\obj\Debug\net6.0\Financiera.Models.dll
 C:\Financiera-new\Financiera.Models\obj\Debug\net6.0\refint\Financiera.Models.dll
 C:\Financiera-new\Financiera.Models\obj\Debug\net6.0\Financiera.Models.pdb
 C:\Financiera-new\Financiera.Models\obj\Debug\net6.0\ref\Financiera.Models.dll
+C:\Financiera\Financiera.Models\obj\Debug\net6.0\Financiera.Models.sourcelink.json

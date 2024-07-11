@@ -18,7 +18,9 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Financiera.Data\Financiera.Data.csproj" />
+    <ProjectReference Include="..\Financiera.Logic\Financiera.Logic.csproj" />
     <ProjectReference Include="..\Financiera.Models\Financiera.Models.csproj" />
+    <ProjectReference Include="..\Financiera.Utilidades\Financiera.Utilidades.csproj" />
   </ItemGroup>
 
 </Project>

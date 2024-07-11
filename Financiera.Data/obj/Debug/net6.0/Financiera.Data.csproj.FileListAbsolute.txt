@@ -9,7 +9,6 @@ C:\Financiera\Financiera.Data\obj\Debug\net6.0\Financiera.Data.GeneratedMSBuildE
 C:\Financiera\Financiera.Data\obj\Debug\net6.0\Financiera.Data.AssemblyInfoInputs.cache
 C:\Financiera\Financiera.Data\obj\Debug\net6.0\Financiera.Data.AssemblyInfo.cs
 C:\Financiera\Financiera.Data\obj\Debug\net6.0\Financiera.Data.csproj.CoreCompileInputs.cache
-C:\Financiera\Financiera.Data\obj\Debug\net6.0\Financiera.Data.csproj.CopyComplete
 C:\Financiera\Financiera.Data\obj\Debug\net6.0\Financiera.Data.dll
 C:\Financiera\Financiera.Data\obj\Debug\net6.0\refint\Financiera.Data.dll
 C:\Financiera\Financiera.Data\obj\Debug\net6.0\Financiera.Data.pdb
@@ -32,3 +31,5 @@ C:\Financiera-new\Financiera.Data\obj\Debug\net6.0\refint\Financiera.Data.dll
 C:\Financiera-new\Financiera.Data\obj\Debug\net6.0\Financiera.Data.pdb
 C:\Financiera-new\Financiera.Data\obj\Debug\net6.0\Financiera.Data.genruntimeconfig.cache
 C:\Financiera-new\Financiera.Data\obj\Debug\net6.0\ref\Financiera.Data.dll
+C:\Financiera\Financiera.Data\obj\Debug\net6.0\Financiera.Data.sourcelink.json
+C:\Financiera\Financiera.Data\obj\Debug\net6.0\Financie.4BBC6419.Up2Date

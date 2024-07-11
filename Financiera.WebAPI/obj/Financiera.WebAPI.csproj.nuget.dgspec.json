@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Financiera-new\\Financiera.WebAPI\\Financiera.WebAPI.csproj": {}
+    "C:\\Financiera\\Financiera.WebAPI\\Financiera.WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Financiera-new\\Financiera.Data\\Financiera.Data.csproj": {
+    "C:\\Financiera\\Financiera.Data\\Financiera.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Financiera-new\\Financiera.Data\\Financiera.Data.csproj",
+        "projectUniqueName": "C:\\Financiera\\Financiera.Data\\Financiera.Data.csproj",
         "projectName": "Financiera.Data",
-        "projectPath": "C:\\Financiera-new\\Financiera.Data\\Financiera.Data.csproj",
-        "packagesPath": "C:\\Users\\I-MAG\\.nuget\\packages\\",
-        "outputPath": "C:\\Financiera-new\\Financiera.Data\\obj\\",
+        "projectPath": "C:\\Financiera\\Financiera.Data\\Financiera.Data.csproj",
+        "packagesPath": "C:\\Users\\Matias\\.nuget\\packages\\",
+        "outputPath": "C:\\Financiera\\Financiera.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\I-MAG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Matias\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,14 +27,14 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://www.nuget.org/api/v2/": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Financiera-new\\Financiera.Models\\Financiera.Models.csproj": {
-                "projectPath": "C:\\Financiera-new\\Financiera.Models\\Financiera.Models.csproj"
+              "C:\\Financiera\\Financiera.Models\\Financiera.Models.csproj": {
+                "projectPath": "C:\\Financiera\\Financiera.Models\\Financiera.Models.csproj"
               }
             }
           }
@@ -43,6 +43,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -94,24 +99,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Financiera-new\\Financiera.Models\\Financiera.Models.csproj": {
+    "C:\\Financiera\\Financiera.Logic\\Financiera.Logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Financiera-new\\Financiera.Models\\Financiera.Models.csproj",
-        "projectName": "Financiera.Models",
-        "projectPath": "C:\\Financiera-new\\Financiera.Models\\Financiera.Models.csproj",
-        "packagesPath": "C:\\Users\\I-MAG\\.nuget\\packages\\",
-        "outputPath": "C:\\Financiera-new\\Financiera.Models\\obj\\",
+        "projectUniqueName": "C:\\Financiera\\Financiera.Logic\\Financiera.Logic.csproj",
+        "projectName": "Financiera.Logic",
+        "projectPath": "C:\\Financiera\\Financiera.Logic\\Financiera.Logic.csproj",
+        "packagesPath": "C:\\Users\\Matias\\.nuget\\packages\\",
+        "outputPath": "C:\\Financiera\\Financiera.Logic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\I-MAG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Matias\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -121,7 +126,82 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Financiera\\Financiera.Data\\Financiera.Data.csproj": {
+                "projectPath": "C:\\Financiera\\Financiera.Data\\Financiera.Data.csproj"
+              },
+              "C:\\Financiera\\Financiera.Models\\Financiera.Models.csproj": {
+                "projectPath": "C:\\Financiera\\Financiera.Models\\Financiera.Models.csproj"
+              },
+              "C:\\Financiera\\Financiera.Utilidades\\Financiera.Utilidades.csproj": {
+                "projectPath": "C:\\Financiera\\Financiera.Utilidades\\Financiera.Utilidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Financiera\\Financiera.Models\\Financiera.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Financiera\\Financiera.Models\\Financiera.Models.csproj",
+        "projectName": "Financiera.Models",
+        "projectPath": "C:\\Financiera\\Financiera.Models\\Financiera.Models.csproj",
+        "packagesPath": "C:\\Users\\Matias\\.nuget\\packages\\",
+        "outputPath": "C:\\Financiera\\Financiera.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Matias\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://www.nuget.org/api/v2/": {}
         },
         "frameworks": {
           "net6.0": {
@@ -133,6 +213,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -160,24 +245,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Financiera-new\\Financiera.WebAPI\\Financiera.WebAPI.csproj": {
+    "C:\\Financiera\\Financiera.Utilidades\\Financiera.Utilidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Financiera-new\\Financiera.WebAPI\\Financiera.WebAPI.csproj",
-        "projectName": "Financiera.WebAPI",
-        "projectPath": "C:\\Financiera-new\\Financiera.WebAPI\\Financiera.WebAPI.csproj",
-        "packagesPath": "C:\\Users\\I-MAG\\.nuget\\packages\\",
-        "outputPath": "C:\\Financiera-new\\Financiera.WebAPI\\obj\\",
+        "projectUniqueName": "C:\\Financiera\\Financiera.Utilidades\\Financiera.Utilidades.csproj",
+        "projectName": "Financiera.Utilidades",
+        "projectPath": "C:\\Financiera\\Financiera.Utilidades\\Financiera.Utilidades.csproj",
+        "packagesPath": "C:\\Users\\Matias\\.nuget\\packages\\",
+        "outputPath": "C:\\Financiera\\Financiera.Utilidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\I-MAG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Matias\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -187,18 +272,14 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://www.nuget.org/api/v2/": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Financiera-new\\Financiera.Data\\Financiera.Data.csproj": {
-                "projectPath": "C:\\Financiera-new\\Financiera.Data\\Financiera.Data.csproj"
-              },
-              "C:\\Financiera-new\\Financiera.Models\\Financiera.Models.csproj": {
-                "projectPath": "C:\\Financiera-new\\Financiera.Models\\Financiera.Models.csproj"
+              "C:\\Financiera\\Financiera.Models\\Financiera.Models.csproj": {
+                "projectPath": "C:\\Financiera\\Financiera.Models\\Financiera.Models.csproj"
               }
             }
           }
@@ -207,6 +288,99 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Financiera\\Financiera.WebAPI\\Financiera.WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Financiera\\Financiera.WebAPI\\Financiera.WebAPI.csproj",
+        "projectName": "Financiera.WebAPI",
+        "projectPath": "C:\\Financiera\\Financiera.WebAPI\\Financiera.WebAPI.csproj",
+        "packagesPath": "C:\\Users\\Matias\\.nuget\\packages\\",
+        "outputPath": "C:\\Financiera\\Financiera.WebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Matias\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Financiera\\Financiera.Data\\Financiera.Data.csproj": {
+                "projectPath": "C:\\Financiera\\Financiera.Data\\Financiera.Data.csproj"
+              },
+              "C:\\Financiera\\Financiera.Logic\\Financiera.Logic.csproj": {
+                "projectPath": "C:\\Financiera\\Financiera.Logic\\Financiera.Logic.csproj"
+              },
+              "C:\\Financiera\\Financiera.Models\\Financiera.Models.csproj": {
+                "projectPath": "C:\\Financiera\\Financiera.Models\\Financiera.Models.csproj"
+              },
+              "C:\\Financiera\\Financiera.Utilidades\\Financiera.Utilidades.csproj": {
+                "projectPath": "C:\\Financiera\\Financiera.Utilidades\\Financiera.Utilidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -251,7 +425,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

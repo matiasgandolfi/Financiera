@@ -50,7 +50,7 @@ namespace Financiera.WebAPI.Controllers
 
 
         [Authorize(Policy = "AdminRol")]
-        [HttpPost("registro")] //POST: api/usuario/registro
+        [HttpPost("registro")]
         public async Task<ActionResult<UsuarioDto>> Registro(RegistroDto registroDto)
         {
             if (await UsuarioExiste(registroDto.Username)) { return BadRequest("UserName ya esta Registrado"); }
@@ -77,7 +77,7 @@ namespace Financiera.WebAPI.Controllers
 
         }
 
-        [HttpPost("login")] //POST: api/usuario/registro
+        [HttpPost("login")]
         public async Task<ActionResult<UsuarioDto>> Login(LoginDto loginDto)
         {
             var usuario = await _userManager.Users.SingleOrDefaultAsync(x => x.UserName == loginDto.UserName);

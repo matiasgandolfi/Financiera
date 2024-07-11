@@ -17,6 +17,7 @@ namespace Financiera.Models.Entidades
         public string NumeroCuenta { get; set; }
         public decimal Saldo { get; set; }
         public DateTime FechaCreación { get; set; }
+        public bool Estado { get; set; }
 
         public UsuarioAplicacionModel Usuario { get; set; }
         public ICollection<Transaccion> Transacciones { get; set; }

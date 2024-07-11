@@ -9,7 +9,7 @@ namespace Financiera.Data.Interfaces.IRepositorio
 {
     public interface ICuentaRepositorio : IRepositorioGenerico<Cuenta>
     {
-        void Actualizar(Cuenta cuenta);
+        void Update(Cuenta cuenta);
 
     }
 }

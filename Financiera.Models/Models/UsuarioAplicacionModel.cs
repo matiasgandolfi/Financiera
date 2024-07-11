@@ -11,6 +11,7 @@ namespace Financiera.Models.Models
 {
     public class UsuarioAplicacionModel : IdentityUser<int>
     {
+        public int Id { get; set; }
         public string Apellido { get; set; }
         public string Nombre { get; set; }
         public ICollection<Cuenta> Cuentas { get; set; }

@@ -61,7 +61,6 @@ C:\Financiera\Financiera.WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
 C:\Financiera\Financiera.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
 C:\Financiera\Financiera.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
 C:\Financiera\Financiera.WebAPI\obj\Debug\net6.0\scopedcss\bundle\Financiera.WebAPI.styles.css
-C:\Financiera\Financiera.WebAPI\obj\Debug\net6.0\Financiera.WebAPI.csproj.CopyComplete
 C:\Financiera\Financiera.WebAPI\obj\Debug\net6.0\Financiera.WebAPI.dll
 C:\Financiera\Financiera.WebAPI\obj\Debug\net6.0\refint\Financiera.WebAPI.dll
 C:\Financiera\Financiera.WebAPI\obj\Debug\net6.0\Financiera.WebAPI.pdb
@@ -142,3 +141,11 @@ C:\Financiera-new\Financiera.WebAPI\obj\Debug\net6.0\refint\Financiera.WebAPI.dl
 C:\Financiera-new\Financiera.WebAPI\obj\Debug\net6.0\Financiera.WebAPI.pdb
 C:\Financiera-new\Financiera.WebAPI\obj\Debug\net6.0\Financiera.WebAPI.genruntimeconfig.cache
 C:\Financiera-new\Financiera.WebAPI\obj\Debug\net6.0\ref\Financiera.WebAPI.dll
+C:\Financiera\Financiera.WebAPI\obj\Debug\net6.0\Financiera.WebAPI.sourcelink.json
+C:\Financiera\Financiera.WebAPI\obj\Debug\net6.0\Financie.5ED4CF5C.Up2Date
+C:\Financiera\Financiera.WebAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Financiera\Financiera.WebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Financiera\Financiera.WebAPI\bin\Debug\net6.0\Financiera.Logic.dll
+C:\Financiera\Financiera.WebAPI\bin\Debug\net6.0\Financiera.Utilidades.dll
+C:\Financiera\Financiera.WebAPI\bin\Debug\net6.0\Financiera.Logic.pdb
+C:\Financiera\Financiera.WebAPI\bin\Debug\net6.0\Financiera.Utilidades.pdb

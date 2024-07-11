@@ -1,14 +1,16 @@
-﻿using Financiera.Data.Interfaces;
-using Financiera.Data;
-using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.IdentityModel.Tokens;
-using Microsoft.OpenApi.Models;
-using System.Text;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.AspNetCore.Mvc;
-using Financiera.WebAPI.Controllers.Errores;
-using Financiera.Data.Servicios;
+﻿using Financiera.Data;
+using Financiera.Data.Interfaces;
 using Financiera.Data.Repositorio;
+using Financiera.Data.Servicios;
+using Financiera.Utilidades;
+using Financiera.WebAPI.Controllers.Errores;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.OpenApi.Models;
+using AutoMapper;
+using Financiera.Logic.Servicios.Interfaces;
+using Financiera.Logic.Servicios;
+using Financiera.Models.DTOs;
 
 namespace Financiera.WebAPI.Extensiones
 {
@@ -65,6 +67,11 @@ namespace Financiera.WebAPI.Extensiones
                 };
             });
             services.AddScoped<IUnidadTrabajo, UnidadTrabajo>();
+            services.AddAutoMapper(typeof(MappingProfile));
+            services.AddScoped<ApiResponse>();
+
+            services.AddScoped<ICuentaServicio, CuentaServicio>();
+
 
             return services;
         }

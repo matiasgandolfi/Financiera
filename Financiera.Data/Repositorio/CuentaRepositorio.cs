@@ -17,7 +17,7 @@ namespace Financiera.Data.Repositorio
             _db = db;
         }
 
-        public void Actualizar(Cuenta cuenta)
+        public void Update(Cuenta cuenta)
         {
             var cuentaDb = _db.Cuentas.FirstOrDefault(e => e.CuentaId == cuenta.CuentaId);
             if(cuentaDb != null)

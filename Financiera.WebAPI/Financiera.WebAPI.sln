@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Financiera.WebAPI", "Financiera.WebAPI.csproj", "{CC311AC0-ECE5-45A2-AE78-8BECDE0B0D92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Financiera.WebAPI", "Financiera.WebAPI.csproj", "{CC311AC0-ECE5-45A2-AE78-8BECDE0B0D92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Financiera.Data", "..\Financiera.Data\Financiera.Data.csproj", "{6031BEA0-3F73-4BAB-9A26-24970A7795F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Financiera.Data", "..\Financiera.Data\Financiera.Data.csproj", "{6031BEA0-3F73-4BAB-9A26-24970A7795F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Financiera.Models", "..\Financiera.Models\Financiera.Models.csproj", "{0090C3FE-4E7A-4AE3-BDE5-2291E6156D7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Financiera.Models", "..\Financiera.Models\Financiera.Models.csproj", "{0090C3FE-4E7A-4AE3-BDE5-2291E6156D7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Financiera.Utilidades", "..\Financiera.Utilidades\Financiera.Utilidades.csproj", "{52BA50E8-30A9-424B-93A8-3A979EB0BA83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Financiera.Logic", "..\Financiera.Logic\Financiera.Logic.csproj", "{51A44E4C-19EF-4243-84B9-0D15FFE5E55F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{0090C3FE-4E7A-4AE3-BDE5-2291E6156D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0090C3FE-4E7A-4AE3-BDE5-2291E6156D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0090C3FE-4E7A-4AE3-BDE5-2291E6156D7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52BA50E8-30A9-424B-93A8-3A979EB0BA83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52BA50E8-30A9-424B-93A8-3A979EB0BA83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52BA50E8-30A9-424B-93A8-3A979EB0BA83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52BA50E8-30A9-424B-93A8-3A979EB0BA83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51A44E4C-19EF-4243-84B9-0D15FFE5E55F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51A44E4C-19EF-4243-84B9-0D15FFE5E55F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51A44E4C-19EF-4243-84B9-0D15FFE5E55F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51A44E4C-19EF-4243-84B9-0D15FFE5E55F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

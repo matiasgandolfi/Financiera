@@ -30,6 +30,9 @@ namespace Financiera.Data.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CuentaId"), 1L, 1);
 
+                    b.Property<bool>("Estado")
+                        .HasColumnType("bit");
+
                     b.Property<DateTime>("FechaCreación")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("datetime2")

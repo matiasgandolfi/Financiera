@@ -1,0 +1,16 @@
+C:\Financiera\Financiera.Utilidades\bin\Debug\net6.0\Financiera.Utilidades.deps.json
+C:\Financiera\Financiera.Utilidades\bin\Debug\net6.0\Financiera.Utilidades.dll
+C:\Financiera\Financiera.Utilidades\bin\Debug\net6.0\Financiera.Utilidades.pdb
+C:\Financiera\Financiera.Utilidades\bin\Debug\net6.0\Financiera.Models.dll
+C:\Financiera\Financiera.Utilidades\bin\Debug\net6.0\Financiera.Models.pdb
+C:\Financiera\Financiera.Utilidades\obj\Debug\net6.0\Financiera.Utilidades.csproj.AssemblyReference.cache
+C:\Financiera\Financiera.Utilidades\obj\Debug\net6.0\Financiera.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Financiera\Financiera.Utilidades\obj\Debug\net6.0\Financiera.Utilidades.AssemblyInfoInputs.cache
+C:\Financiera\Financiera.Utilidades\obj\Debug\net6.0\Financiera.Utilidades.AssemblyInfo.cs
+C:\Financiera\Financiera.Utilidades\obj\Debug\net6.0\Financiera.Utilidades.csproj.CoreCompileInputs.cache
+C:\Financiera\Financiera.Utilidades\obj\Debug\net6.0\Financiera.Utilidades.sourcelink.json
+C:\Financiera\Financiera.Utilidades\obj\Debug\net6.0\Financie.CA303CA3.Up2Date
+C:\Financiera\Financiera.Utilidades\obj\Debug\net6.0\Financiera.Utilidades.dll
+C:\Financiera\Financiera.Utilidades\obj\Debug\net6.0\refint\Financiera.Utilidades.dll
+C:\Financiera\Financiera.Utilidades\obj\Debug\net6.0\Financiera.Utilidades.pdb
+C:\Financiera\Financiera.Utilidades\obj\Debug\net6.0\ref\Financiera.Utilidades.dll
